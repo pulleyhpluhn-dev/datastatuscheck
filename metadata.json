@@ -1,0 +1,5 @@
+{
+  "name": "IoT Data Insight Tool",
+  "description": "A lightweight analysis tool for IoT data integrity, business status distribution, and packet loss diagnostics.",
+  "requestFramePermissions": []
+}
